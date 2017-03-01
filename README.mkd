@@ -24,7 +24,7 @@ Tested Platforms
 
 Installation
 ============
-Via rakefile:
+Via Makefile:
 
     $ git clone git://github.com/c9s/hypergit.vim
     $ cd hypergit.vim
