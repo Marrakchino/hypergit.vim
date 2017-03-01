@@ -7,7 +7,7 @@ This git plugin provides many awesome features so that you don't need to type co
 Screenshot
 ===========
 
-![ScreenShot](http://github.com/c9s/hypergit.vim/raw/master/screenshot.png)
+[![screenshot.png](https://s17.postimg.org/mg31wmhyn/screenshot.png)](https://postimg.org/image/fcv6h0ciz/)
 
 Features
 ========
